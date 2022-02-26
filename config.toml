@@ -1,5 +1,5 @@
 # Change this value to your own domain.
-base_url = "zackerthescar.github.io/personal-site/"
+base_url = "zackerthescar.github.io
 
 title = ""
 description = ""
@@ -10,5 +10,5 @@ compile_sass = true
 [extra]
 author = "ACM UMN"
 menu = [
-    { url = "/", name = "Home" },
+    { url = "/personal-site/", name = "Home" },
 ]
