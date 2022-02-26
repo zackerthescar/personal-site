@@ -10,5 +10,5 @@ compile_sass = true
 [extra]
 author = "ACM UMN"
 menu = [
-    { url = "/personal-site/", name = "Home" },
+    { url = "/personal-site", name = "Home" },
 ]
