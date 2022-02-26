@@ -11,6 +11,6 @@ Seems like the style doesn't work. F in the chat bois!
 - Can Fix
 - This mess
 
-<https://acm.umn.edu>(Ooooo!)
+[Ooooo](https://acm.umn.edu)
 
 ![JOKER CAT JOKER CAT](/images/jokercat.jpg)
