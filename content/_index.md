@@ -16,3 +16,4 @@ Time to:
 [Oooo](https://acm.umn.edu)
 
 ![JOKER CAT JOKER CAT](images/jokercat.jpg)
+![backroom](images/cover4.jpg)
