@@ -13,4 +13,4 @@ Seems like the style doesn't work. F in the chat bois!
 
 [Ooooo](https://acm.umn.edu)
 
-![JOKER CAT JOKER CAT](/static/images/jokercat.jpg)
+![JOKER CAT JOKER CAT](images/jokercat.jpg)
