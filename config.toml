@@ -11,6 +11,6 @@ compile_sass = true
 author = "ACM UMN"
 menu = [
     { url = "", name = "Home" },
-    { url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ", name = "click this"}
+    { url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ", name = "click this"},
     { url - "https://www.youtube.com/watch?v=A67ZkAd1wmI", name = "caramelldansen"}
 ]
